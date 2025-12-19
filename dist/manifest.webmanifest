@@ -1,0 +1,1 @@
+{"name":"Ionic CookBook","short_name":"CookBook","description":"Aplicación de recetas de cocina con planificador de menú semanal","start_url":"/","display":"standalone","background_color":"#0b0d12","theme_color":"#48c78e","lang":"en","scope":"/","orientation":"portrait","icons":[{"src":"/favicon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
